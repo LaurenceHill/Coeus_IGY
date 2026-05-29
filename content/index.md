@@ -1,8 +1,4 @@
----
-title: Nomad Letters Wiki
----
-
-# Nomad Letters Wiki — Index
+# Nomad Letters Wiki
 
 Source: *Nomad Investment Partnership Letters to Partners, 2001–2014* (IGY Foundation)
 
