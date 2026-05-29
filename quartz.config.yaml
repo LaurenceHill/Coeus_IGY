@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://github.com/LaurenceHill/Coeus_IGY.git
+  baseUrl: laurencehill.github.io/Coeus_IGY
   ignorePatterns:
     - private
     - templates
