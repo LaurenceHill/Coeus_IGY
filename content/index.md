@@ -1,3 +1,7 @@
+---
+title: Coeus IGY
+---
+
 # Nomad Letters Wiki — Index
 
 > **Root navigation page** — intentionally not linked from individual entity pages (except [[Nomad_Investment_Partnership]]). Start here to browse the full wiki.
