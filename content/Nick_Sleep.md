@@ -37,3 +37,7 @@ After closing the fund in 2014, Sleep pursued charitable work, establishing the 
 ## Sources
 - Nomad Investment Partnership Letters, 2001–2014
 - Preamble and Postscript, IGY Foundation edition (Spring 2021)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

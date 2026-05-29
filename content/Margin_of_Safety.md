@@ -100,3 +100,7 @@ This is the most extreme reading of the price-to-value ratio recorded in all the
 
 ## Sources
 - Nomad Letters, Letter 1 (December 2001); Letter 2 (June 2002); Letter 4 (June 2003); Letter 5 (December 2003); Letter 6 (June 2004); Letter 7 (December 2004); Letter 8 (June 2005); Letter 11 (December 2006); Letter 15 (December 2008); Letter 16 (June 2009)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

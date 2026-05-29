@@ -80,3 +80,7 @@ Letter 25 (December 2013) provides the complete retrospective on the Zimbabwe in
 ## Sources
 - Nomad Letters, Letter 8 (June 2005); Letter 25 (December 2013)
 - Global Investment Review, February 2005 ("Zimbabwe") — appendix to Letter 8
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -61,3 +61,7 @@ The alternative investment approach: "make a meaningful, long-term investment [w
 - Nomad Letters, Letter 17 (December 2009)
 - Upton Sinclair — "difficult to get a man to understand something when his salary depends on his not understanding it" (cited Letter 17)
 - Charlie Munger — "locker room culture" (cited Letter 17)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

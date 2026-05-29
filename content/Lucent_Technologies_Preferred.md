@@ -53,3 +53,7 @@ Management chose option (b). The new common shares provided resources to meet th
 
 ## Sources
 - Nomad Letters, Letter 4 (June 2003)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

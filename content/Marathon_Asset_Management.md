@@ -36,3 +36,7 @@ The aggregation problem (Nomad's orders being combined with Marathon's main fund
 ## Sources
 - Nomad Investment Partnership Letters, Letter 1 (December 2001); Letter 2 (June 2002); Letter 10 (June 2006)
 - April 2006 transition letter to shareholders (appendix to Letter 10)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

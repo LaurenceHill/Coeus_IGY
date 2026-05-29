@@ -82,3 +82,7 @@ This is the investment case for [[Terminal_Portfolio]] holdings — businesses o
 - Sol Price, Fed-Mart founding memo (1967) — "best summary of the business case for scale economics shared" (cited Letter 18)
 - Jeff Bezos, Amazon Letter to Shareholders 2010 — 452 goals; light bulb from vending machine (cited Letter 18)
 - Ole Peters, SFI Bulletin 2009, volume 24 — branching probability model; improving odds (cited Letter 18)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

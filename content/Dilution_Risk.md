@@ -71,3 +71,7 @@ Contrast this with Nomad's major positions in [[Scale_Economies_Shared]] compani
 
 ## Sources
 - Nomad Letters, Letter 14 (June 2008)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

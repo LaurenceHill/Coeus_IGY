@@ -45,3 +45,7 @@ The paradox also supports [[Portfolio_Concentration]]: a concentrated portfolio 
 ## Sources
 - Nomad Letters, Letter 25 (December 2013)
 - Barry Schwartz, *The Paradox of Choice* (2004) — cited Letter 25
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -64,3 +64,7 @@ The framework is more than a label — it tells you how to value each bucket and
 
 ## Sources
 - Nomad Letters, Letter 1 (December 2001); Letter 2 (June 2002)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

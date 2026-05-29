@@ -88,3 +88,7 @@ Sleep argues (Letter 9) that the business-oriented evolution of the investment i
 
 ## Sources
 - Nomad Letters, Letter 9 (December 2005); Letter 10 (June 2006); Letter 22 (June 2012); Letter 24 (June 2013)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

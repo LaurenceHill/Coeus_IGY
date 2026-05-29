@@ -42,3 +42,7 @@ The solution Sleep identified in 2003 (Letter 5) and applies here: own enough of
 
 ## Sources
 - Nomad Letters, Letter 11 (December 2006)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

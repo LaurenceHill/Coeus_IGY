@@ -67,3 +67,7 @@ National Indemnity standing back from writing insurance for years — revenues d
 
 ## Sources
 - Nomad Letters, Letter 6 (June 2004)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

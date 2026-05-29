@@ -89,3 +89,7 @@ By 2009, Sleep and Zakaria are explicitly "drifting toward inactivity" as judged
 ## Sources
 - Nomad Letters, Letter 1 (December 2001); Letter 2 (June 2002); Letter 3 (December 2002); Letter 12 (June 2007); Letter 17 (December 2009)
   - *Note: Georgica Plc buyback example, Sinegal/Costco pricing story, and insider-buying statistics are all drawn from Letter 3, though the concept is established in Letters 1–2.*
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -76,3 +76,7 @@ Miller's encapsulation of the investment task: **"exploit the fact that fewer th
 
 ## Sources
 - Nomad Letters, Letter 1 (December 2001); Letter 2 (June 2002); Letter 4 (June 2003); Letter 8 (June 2005)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -68,3 +68,7 @@ The short end of the equity yield curve is crowded: all mutual fund managers cha
 ## Sources
 - Nomad Letters, Letter 11 (December 2006)
 - *Outstanding Investor Digest* — interview with Nick Sleep (year unspecified; reprints available via Amanda Joss)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

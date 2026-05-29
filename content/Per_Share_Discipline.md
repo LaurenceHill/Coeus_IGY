@@ -56,3 +56,7 @@ Sleep's ability to pursue strategy (1) — buying preferred stock — requires a
 
 ## Sources
 - Nomad Letters, Letter 4 (June 2003)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -52,3 +52,7 @@ Both Conseco and Monsanto are acknowledged errors, but they are different in kin
 
 ## Sources
 - Nomad Letters, Letter 2 (June 2002); Letter 3 (December 2002) — portfolio summary reference
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

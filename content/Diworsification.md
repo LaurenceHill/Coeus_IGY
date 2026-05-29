@@ -63,3 +63,7 @@ The corollary: "real" diversification is available cheaply via index funds. If a
 
 ## Sources
 - Nomad Letters, Letter 4 (June 2003); Letter 16 (June 2009); Stagecoach analysis in Letter 3 (December 2002)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

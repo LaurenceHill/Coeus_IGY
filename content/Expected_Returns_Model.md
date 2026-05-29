@@ -70,3 +70,7 @@ This is Sleep's clearest statement of where his analytical effort is directed: n
 
 ## Sources
 - Nomad Letters, Letter 5 (December 2003); reprinted as Appendix 1 in Letter 6 (June 2004)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -70,3 +70,7 @@ The scaling laws framework reinforces [[Scale_Economies_Shared]]: a company with
 - Nomad Letters, Letter 12 (June 2007)
 - Geoff West, Santa Fe Institute — scaling laws, Kleiber's Law, biological power laws (cited in Letter 12)
 - US Census Bureau — e-commerce as % of US retail 2006 (2.7–3.1%) (cited in footnote, Letter 12)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

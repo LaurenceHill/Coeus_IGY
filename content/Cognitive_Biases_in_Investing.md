@@ -153,3 +153,7 @@ He extends this with a generalization: truths tend to be spoken quietly, while s
 - Speech: "So, how does Zeckhauser play bridge?" — Investment Fund for Foundations, September 26, 2005 (appendix to Letter 9) — social proof, availability heuristic, probability-based thinking
 - Walter Schloss, *Outstanding Investor Digest*, June 23, 1989 — Buffett golf story (cited Letter 13)
 - Charlie Munger, JFK School of Government — "human mind is like the human egg: once one sperm has entered, all others are locked out" (cited Letter 20)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -69,3 +69,7 @@ This connects directly to [[Principal_Agent_Conflict]]: incentives and rules can
 - Nomad Letters, Letter 24 (June 2013)
 - Dan Ariely, TED Talk, Buenos Aires, Argentina, October 2012 — Lego robots experiment; origami experiment (cited Letter 24)
 - Dan Ariely — powdered cake mix experiment (cited Letter 24)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

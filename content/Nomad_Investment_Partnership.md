@@ -365,3 +365,7 @@ The fund was liquidated in early 2014 — a few months after the December 2013 a
   - Letter 24: Interim Letter, period ended June 30, 2013
   - Letter 25: Annual Letter, period ended December 31, 2013 (final letter)
   - Postamble: written by Sleep and Zakaria, Spring 2021, for IGY Foundation published collection
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -73,3 +73,7 @@ The Matichon bid was one of **six Nomad investments that had received takeover a
 
 ## Sources
 - Nomad Letters, Letter 1 (December 2001); Letter 2 (June 2002); Letter 9 (December 2005)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

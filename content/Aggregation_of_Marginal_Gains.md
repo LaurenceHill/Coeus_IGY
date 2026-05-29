@@ -55,3 +55,7 @@ Sleep's wry note: the rent at "Galactic HQ" (Sleep, Zakaria and Company's office
 - Nomad Letters, Letter 23 (December 2012)
 - Dave Brailsford, Team GB Cycling / Sky Tour de France — "aggregation of marginal gains" (cited Letter 23)
 - Lord Harris, Carpetright — price tag example; academy motivation (cited Letter 23)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

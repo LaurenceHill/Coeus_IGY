@@ -4,7 +4,7 @@ title: Nomad Letters Wiki
 
 # Nomad Letters Wiki — Index
 
-> **Root navigation page** — intentionally not linked from individual entity pages (except [[Nomad_Investment_Partnership]]). Start here to browse the full wiki.
+> **Root navigation page** — linked from all entity pages. Start here to browse the full wiki.
 
 Source: *Nomad Investment Partnership Letters to Partners, 2001–2014* (IGY Foundation)
 

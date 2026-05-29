@@ -58,3 +58,7 @@ The SFI's interdisciplinary model enabled Geoff West to cross from physics into 
 - W. Brian Arthur, Santa Fe Institute — Complex Adaptive System model of the economy (cited Letters 9, 11, 12)
 - Murray Gell-Mann — SFI founder; creative thinking four-step process (cited Letter 12)
 - Charles Jencks — landscape architect; "Garden of Cosmic Speculation" in Dumfries, Scotland (cited Letter 12)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

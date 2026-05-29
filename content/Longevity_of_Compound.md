@@ -98,3 +98,7 @@ The competitive moat for the investor is precisely the same as the competitive m
 - Nomad Letters, Letter 16 (June 2009); Letter 20 (June 2011)
 - Empirical Research Partners — probability of growth stock maintaining status: 1-in-5 for 5 years, 1-in-10 for 10 years (cited Letter 16)
 - Wal-Mart share price and "10% payback price" chart — Letter 16
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

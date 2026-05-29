@@ -79,3 +79,7 @@ It also connects to [[Valuation_Heuristics]]: the investor who anchors on next q
 - David Attenborough, BBC Radio 4 Desert Island Discs — Darwin as the greater naturalist (cited Letter 22)
 - Franklin Institute of the State of Pennsylvania, 1927 — Ford production volume and Model T cost chart (cited Letter 22)
 - Jeff Bezos — "I can't imagine customers saying they wish prices were higher" (cited Letter 22)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

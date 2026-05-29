@@ -120,3 +120,7 @@ Applied to investing: over-reliance on rules (quarterly reporting, benchmarks, s
 - Hans Monderman — Drachten roundabout traffic experiment (cited Letter 14)
 - Upton Sinclair — "difficult to get a man to understand something when his salary depends on his not understanding it" (cited Letter 17)
 - Nomad Letters, Letter 25 (December 2013) — "tax short term investing"
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

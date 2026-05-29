@@ -134,3 +134,7 @@ Sleep's explicit defence of ~30% in one stock references Sam Walton's quip: "Tha
 
 ## Sources
 - Nomad Letters, Letter 6 (June 2004); Letter 7 (December 2004); Letter 9 (December 2005); Letter 16 (June 2009)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

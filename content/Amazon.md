@@ -148,3 +148,7 @@ Sleep notes that Amazon could potentially quadruple its US revenues from existin
 - Jeff Bezos — "Advertising is the price you pay for having an unremarkable product" (cited Letter 16)
 - Jeff Bezos, Wired magazine interview — two ways to build a successful company; low margins model (cited Letter 21)
 - US Census Bureau — e-commerce as % of US retail 2006: 2.7–3.1% (cited Letter 12)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

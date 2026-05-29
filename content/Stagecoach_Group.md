@@ -69,3 +69,7 @@ Sleep's closing observation: "What we learnt at Stagecoach has helped us continu
 
 ## Sources
 - Nomad Letters, Letter 3 (December 2002); Letter 5 (December 2003); Letter 13 (December 2007)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

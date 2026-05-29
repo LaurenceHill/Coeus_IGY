@@ -136,3 +136,7 @@ The customer preference for low prices is not a trend or a cycle — it is a per
 - Sol Price, Fed-Mart founding memo (1967) — "best summary of scale economics shared" (cited Letter 18)
 - Franklin Institute of the State of Pennsylvania, 1927 — Ford production volume and Model T cost chart (cited Letter 22)
 - Global Investment Review (September 2004 appendix, December 2004 letter context)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

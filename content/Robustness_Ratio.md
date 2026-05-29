@@ -65,3 +65,7 @@ Sleep stresses the ratio is not a one-time measurement but must be tracked over 
 - Nomad Letters, Letter 8 (June 2005)
 - Global Investment Review, May 2005 ("Measuring the Moat") — appendix to Letter 8
 - Berkshire Hathaway Annual Report, 2005 — GEICO data cited by Sleep
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

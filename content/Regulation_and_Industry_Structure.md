@@ -56,3 +56,7 @@ Sleep's epitaph for the era of simple investing: "The halcyon days of the buddin
 - Nomad Letters, Letter 25 (December 2013)
 - Postamble, Spring 2021 (published in IGY Foundation collection)
 - Nassim Nicholas Taleb — market fragility from consolidation (paraphrased, Letter 25)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

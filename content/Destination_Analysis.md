@@ -69,3 +69,7 @@ See [[Mistakes_Framework]] for the full treatment of these three errors.
 ## Sources
 - Nomad Letters, Letter 13 (December 2007)
 - Lessons referenced from Letter 5 (December 2003) — Conseco mea culpa; Letter 3 (December 2002) — Stagecoach original holding
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

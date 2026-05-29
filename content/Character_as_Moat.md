@@ -73,3 +73,7 @@ The portfolio composition — "overwhelmingly invested in businesses of great ch
 - Nomad Letters, Letter 17 (December 2009); Letter 18 (June 2010); Letter 21 (December 2011)
 - Jeff Bezos — "cultures [of caring about little things are] almost impossible to create if not put in place at genesis" (cited Letter 18)
 - Sol Price, Fed-Mart founding memo (1967) — cited via Letter 18; see [[Interlocking_Advantages]]
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

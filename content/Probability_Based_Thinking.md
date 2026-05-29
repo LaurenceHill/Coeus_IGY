@@ -89,3 +89,7 @@ Sleep uses the probabilistic framework to explain Marathon/Nomad's superior perf
 - Michael Mauboussin (Legg Mason) — probabilistic thinking framework (cited in speech)
 - Richard Zeckhauser, Kennedy School of Government — behavioural finance (cited throughout)
 - Nassim Nicholas Taleb, *Fooled by Randomness* — sequence of returns / destination vs. journey (cited in Letter 9)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

@@ -86,3 +86,7 @@ The direct consequence: Sleep stated his intention that as Nomad grows in size, 
 
 ## Sources
 - Nomad Letters, Letter 4 (June 2003); Letter 5 (December 2003)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

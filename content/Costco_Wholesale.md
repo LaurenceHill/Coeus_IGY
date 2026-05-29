@@ -104,3 +104,7 @@ The competitive implication: matching Costco's prices and pay would cost Sam's C
 ## Sources
 - Nomad Letters, Letter 3 (December 2002); Letter 6 (June 2004); Letter 7 (December 2004); Letter 8 (June 2005)
 - Global Investment Review, May 2005 ("Measuring the Moat") — robustness ratio analysis
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

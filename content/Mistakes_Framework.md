@@ -79,3 +79,7 @@ The psychological problem with disclosure: locking in ideas, desire for consiste
 - Walter Schloss interview, *Outstanding Investor Digest*, June 23, 1989 (cited in Letter 13)
 - Tallulah Bankhead — "If I had to live my life again, I'd make the same mistakes, only sooner" (epigraph, Letter 13)
 - William James — "Life is ten percent what you make it and ninety percent how you take it" (cited Letter 13)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

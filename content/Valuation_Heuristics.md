@@ -66,3 +66,7 @@ This is the institutional pressure that perpetuates heuristics: it is career-saf
 - Nomad Letters, Letter 7 (December 2004)
 - Berkshire Hathaway Annual Report, 1992 — Buffett definition of value (quoted)
 - Keynes, *The General Theory of Employment, Interest and Money* (quoted)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

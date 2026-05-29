@@ -35,3 +35,7 @@ None within the letters reviewed to date.
 
 ## Sources
 - Nomad Letters, Letter 3 (December 2002) — "cancer surgery" reference
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

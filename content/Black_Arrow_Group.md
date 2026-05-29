@@ -32,3 +32,7 @@ The Black Arrow case illustrates several principles Sleep returns to across the 
 
 ## Sources
 - Nomad Letters, Letter 21 (December 2011)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

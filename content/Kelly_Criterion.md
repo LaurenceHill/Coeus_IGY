@@ -70,3 +70,7 @@ Sleep frames this honestly: the gap between the Kelly-optimal and the actual pos
 
 ## Sources
 - Nomad Letters, Letter 6 (June 2004); Letter 7 (December 2004)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

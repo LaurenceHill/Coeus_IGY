@@ -29,3 +29,7 @@ Conseco was classified in the deep value workout bucket of the [[Portfolio_Class
 ## Sources
 - Nomad Letters, Letter 3 (December 2002); Letter 5 (December 2003)
 - Global Investment Review, Vol. 16 No. 6 (September 2002) — full Conseco mea culpa (referenced but not reproduced)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

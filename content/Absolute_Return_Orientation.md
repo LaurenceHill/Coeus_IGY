@@ -63,3 +63,7 @@ Instead of an index, Sleep names the investors whose multi-decade records he asp
 ## Sources
 - Nomad Letters, Letter 1 (December 2001); Letter 2 (June 2002); Letter 11 (December 2006); Letter 12 (June 2007)
 - Buffett Partnership Letter, 1960 (quoted in Letters 2 and 12)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

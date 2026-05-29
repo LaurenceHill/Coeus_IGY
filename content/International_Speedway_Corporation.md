@@ -50,3 +50,7 @@ None within the first two letters. The investment thesis is stated clearly and n
 
 ## Sources
 - Nomad Letters, Letter 1 (December 2001); brief reference in Letter 2 (June 2002)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

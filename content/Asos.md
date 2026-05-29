@@ -33,3 +33,7 @@ Asos is referenced in the context of [[Longevity_of_Compound]] and [[Scaling_Law
 ## Sources
 - Nomad Letters, Letter 21 (December 2011) — Bezos Wired interview naming Asos
 - Nomad Letters, Letter 24 (June 2013) — Nick Robertson; non-monetary motivation
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

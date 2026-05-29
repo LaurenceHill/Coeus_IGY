@@ -88,3 +88,7 @@ At the time of Letter 21, the weighted average revenue growth of Nomad's firms (
 - Nomad Letters, Letter 14 (June 2008); Letter 15 (December 2008); Letter 18 (June 2010); Letter 19 (December 2010); Letter 21 (December 2011)
 - "Nuts! Southwest Airlines' Crazy Recipe for Business and Personal Success" — Freiberg and Freiberg (cited Letter 14)
 - Jeff Bezos, Wired magazine interview — AirAsia named in low-margin/large-customer-base cluster (cited Letter 21)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

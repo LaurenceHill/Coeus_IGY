@@ -37,3 +37,7 @@ Sleep describes receiving the early Buffett Partnership letters as fortuitous. H
 ## Sources
 - Nomad Letters, Letter 2 (June 2002) — Buffett 1960 quote
 - Letter from Nick Sleep to Warren Buffett, June 3, 2014
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

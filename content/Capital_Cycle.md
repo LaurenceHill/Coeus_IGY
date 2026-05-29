@@ -58,3 +58,7 @@ The capital cycle is driven partly by psychology — specifically [[Probability_
 
 ## Sources
 - Nomad Letters, Letter 9 (December 2005); Letter 10 (June 2006)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

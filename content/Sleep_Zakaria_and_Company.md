@@ -54,3 +54,7 @@ The departure was amicable. Sleep noted that Marathon's willingness to spin off 
 ## Sources
 - Nomad Letters, Letter 10 (June 2006)
 - April 2006 transition letter to shareholders (appendix to Letter 10)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

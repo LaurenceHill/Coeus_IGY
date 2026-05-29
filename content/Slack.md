@@ -62,3 +62,7 @@ The connection to investing: "What do incentives encourage?" Good incentives rai
 - Nomad Letters, Letter 15 (December 2008)
 - Nassim Taleb — slack vs optimisation; "busy incompetence" (cited Letter 15)
 - Charlie Munger, Wesco Financial AGM 2008 — Bubble Act anecdote (cited Letter 14)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

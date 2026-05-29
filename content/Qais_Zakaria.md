@@ -23,3 +23,7 @@ On closing Nomad in 2014, Sleep wrote that Zak was pursuing "various charitable 
 - Nomad Investment Partnership Letters, 2001–2014
 - Letter to Warren Buffett, June 3, 2014
 - Preamble, IGY Foundation edition (Spring 2021)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

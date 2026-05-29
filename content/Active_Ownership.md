@@ -77,3 +77,7 @@ Sleep describes 2006 as a record year for private equity. He frames many managem
 
 ## Sources
 - Nomad Letters, Letter 5 (December 2003); Letter 6 (June 2004); Letter 11 (December 2006)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

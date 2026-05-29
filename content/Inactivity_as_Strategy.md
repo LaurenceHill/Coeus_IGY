@@ -87,3 +87,7 @@ Charlie Munger's formulation, cited in Letter 24, closes the argument neatly: **
 - William James — "The art of being wise is the art of knowing what to overlook" (cited Letter 19)
 - Charlie Munger — "You make your real money sitting on your assets" (cited Letter 24)
 - Alice in Wonderland (White Rabbit) — "Don't just do something, stand there!" (epigraph Letter 23)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

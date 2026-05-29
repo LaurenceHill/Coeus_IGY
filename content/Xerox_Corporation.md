@@ -65,3 +65,7 @@ Sleep identified one specific risk: dilutive share issuance. Bankers were urging
 
 ## Sources
 - Nomad Letters, Letter 3 (December 2002)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]

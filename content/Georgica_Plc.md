@@ -30,3 +30,7 @@ Georgica is mentioned as one of "our UK investments" — it was a Nomad holding 
 
 ## Sources
 - Nomad Letters, Letter 3 (December 2002)
+
+---
+
+[[index|← Nomad Letters Wiki Index]]
